@@ -639,6 +639,66 @@
             "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/bobby-5.1.0%2Bmc1.20.4.jar",
             "MD5": "86ecab27bfbf06d82788e152e4bff7ec"
           }
+        },
+        {
+          "id": "generated.fabricmod:toggle-sprint-magiccc:1.5@jar",
+          "name": "Toggle Sprint (자동 달리기)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 48942,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/toggle-sprint-magiccc-1.5.jar",
+            "MD5": "b54da97c50f1605f7e72efbeb82bf540"
+          }
+        },
+        {
+          "id": "generated.fabricmod:chat-heads:0.15.2@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83995,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/chat-heads-0.15.2.jar",
+            "MD5": "e6b1426328a55add5372ac4f3069640e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:chatnotify:1.3.0@jar",
+          "name": "ChatNotify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 167896,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/chatnotify-1.3.0.jar",
+            "MD5": "d411e4ffdfc1dab43fce912244d5d8d1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:freecam:1.2.3+mc1.20.4@jar",
+          "name": "Freecam",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1083803,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/freecam-1.2.3%2Bmc1.20.4.jar",
+            "MD5": "a8279e33b1fc7d23c539839a7cd600b7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:yacl:3.6.6+1.20.4-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1115393,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/yacl-3.6.6%2B1.20.4-fabric.jar",
+            "MD5": "ea088a760f3d6c1b2b60c4fcab13e474"
+          }
+        },
+        {
+          "id": "generated.fabricmod:forge-config-api-port:v20.4.3-1.20.4-Fabric@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 444627,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/forge-config-api-port-v20.4.3-1.20.4-Fabric.jar",
+            "MD5": "61c622d98e5938c377a45ad513b6de13"
+          }
         }
       ]
     }
