@@ -699,16 +699,6 @@
             "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/forge-config-api-port-v20.4.3-1.20.4-Fabric.jar",
             "MD5": "61c622d98e5938c377a45ad513b6de13"
           }
-        },
-        {
-          "id": "generated.fabricmod:holdmyitems:4.2.5H1@jar",
-          "name": "Hold My Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 51003,
-            "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/K652hKoN/HMI%204.2.5H1%201.20.1%20-%201.20.4.jar",
-            "MD5": "3dcaace89298477a1088198dba5ec089"
-          }
         }
       ]
     }
