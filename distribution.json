@@ -578,9 +578,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 28564,
+            "size": 54,
             "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/files/config/yosbr/servers.dat",
-            "MD5": "5bbf0e8159cc2a5fdf0396f7cd757aca",
+            "MD5": "3b1b2724ac5b2305eb32fd136a878c8d",
             "path": "config/yosbr/servers.dat"
           }
         },
