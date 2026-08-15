@@ -1,0 +1,6 @@
+resourcePacks:["vanilla","fabric","file/딥 씨 크라켄즈 등장곡.zip","file/라이스 몽키즈 등장곡.zip","file/레이 마린스 등장곡.zip","file/야친자 웨일스 등장곡.zip","file/인피니티 락스 등장곡.zip","file/클로베츠 플랜츠 등장곡.zip"]
+key_key.wi_zoom.zoom:key.keyboard.c
+key_key.saveToolbarActivator:key.keyboard.equal
+lastServer:mbo리그.메인.한국
+lang:ko_kr
+soundCategory_music:0.0
