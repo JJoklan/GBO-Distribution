@@ -373,19 +373,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:reeses-sodium-options:1.7.2+mc1.20.4-build.102@jar",
-          "name": "Reese's Sodium Options",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 77393,
-            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/optionalon/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
-            "MD5": "3353347619cc18acb9b6ef811ac6a310"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.fabricmod:rws:1.0.0@jar",
           "name": "RemoveWelcomeScreen",
           "type": "FabricMod",
@@ -591,21 +578,60 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 28529,
+            "size": 28564,
             "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/files/config/yosbr/servers.dat",
-            "MD5": "3dcdd2fd23da433b8db623f0e14b2af2",
+            "MD5": "5bbf0e8159cc2a5fdf0396f7cd757aca",
             "path": "config/yosbr/servers.dat"
           }
         },
         {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
+          "id": "generated.fabricmod:immediatelyfast:1.5.5+1.20.4-fabric@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
           "artifact": {
-            "size": 28529,
-            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/files/servers.dat",
-            "MD5": "3dcdd2fd23da433b8db623f0e14b2af2",
-            "path": "servers.dat"
+            "size": 348818,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/ImmediatelyFast-Fabric-1.5.5%2B1.20.4.jar",
+            "MD5": "16c0232c08af7c32737295253d810ff7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:krypton:0.2.6@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 167163,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/krypton-0.2.6.jar",
+            "MD5": "eaffbefc9a3dd361299c09eda8826c35"
+          }
+        },
+        {
+          "id": "generated.fabricmod:memoryleakfix:v1.1.5@jar",
+          "name": "MemoryLeakFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 49334,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/memoryleakfix-fabric-1.17%2B-1.1.5.jar",
+            "MD5": "a8461f89d267441752c95beb5448e940"
+          }
+        },
+        {
+          "id": "generated.fabricmod:dynamic-fps:3.11.4@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 223297,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/dynamic-fps-3.11.4%2Bminecraft-1.20.2-fabric.jar",
+            "MD5": "1915601d0d96605ffde6d7d353e7df9c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:bobby:5.1.0+mc1.20.4@jar",
+          "name": "Bobby",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 853323,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/bobby-5.1.0%2Bmc1.20.4.jar",
+            "MD5": "86ecab27bfbf06d82788e152e4bff7ec"
           }
         }
       ]
