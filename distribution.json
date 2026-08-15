@@ -12,6 +12,12 @@
       "minecraftVersion": "1.20.4",
       "mainServer": true,
       "autoconnect": false,
+      "javaOptions": {
+        "ram": {
+          "recommended": 6144,
+          "minimum": 4096
+        }
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
