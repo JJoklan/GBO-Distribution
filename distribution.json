@@ -698,6 +698,17 @@
             "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/fabricmods/required/forge-config-api-port-v20.4.3-1.20.4-Fabric.jar",
             "MD5": "61c622d98e5938c377a45ad513b6de13"
           }
+        },
+        {
+          "id": "chatnotify.json",
+          "name": "chatnotify.json",
+          "type": "File",
+          "artifact": {
+            "size": 2054,
+            "url": "https://raw.githubusercontent.com/JJoklan/GBO-Distribution/main/servers/MBO-1.20.4/files/config/yosbr/config/chatnotify.json",
+            "MD5": "2213821dc896cd7c411f266295be4665",
+            "path": "config/yosbr/config/chatnotify.json"
+          }
         }
       ]
     }
